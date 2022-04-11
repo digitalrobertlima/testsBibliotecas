@@ -1,1 +1,1 @@
-Test App
+retirando do staged o arquivo CONTRIBUTING.md
