@@ -1,3 +1,3 @@
 #testing an app
 
-commit with -a flag
+retirando un arquivo do staged;
